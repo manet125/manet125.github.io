@@ -21,7 +21,7 @@
 #app-mount .wrapper-1Rf91z.guilds-1SWlCJ {
   transform-origin: top left;
   transform: rotate(-90deg);
-  height: 100vw !important;
+  height: 200vw !important;
   width: var(--server-container);
   top: var(--server-container);
   bottom: unset;
